@@ -1,0 +1,19 @@
+# Node dependencies
+node_modules/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment & local secret files
+.env
+.env.*
+*.local
+*.key
+
+# OS & editor files
+.DS_Store
+.vscode/
+.idea/git status
+
+.env
